@@ -15,7 +15,7 @@ In order to simplify this implementation this two endPoints are open, no code ha
 Tecnologic stack:
 This project was made in Spring boot and has enabled two endpoints from actuator:
 - /api/actuator/health 
-- /api/actuator//info
+- /api/actuator/info
 
 This application has available two spring profiles: "dev" and "prod" ("dev" by default)
 To run this application locally just run:
