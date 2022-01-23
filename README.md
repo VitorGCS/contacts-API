@@ -11,6 +11,7 @@ This project ilustrate one simple API to manage the customers information (Full 
 
 This is a demo application with the goal of explore the "Null Object Pattern" and TDD.
 In order to simplify this implementation this two endPoints are open, no code has been implemented regarding security. It wasn't generated any code regarding testing the service, endpoints, and repositories.
+It wasn't considered logs in this demo.
 
 Tecnologic stack:
 This project was made in Spring boot and has enabled two endpoints from actuator:
